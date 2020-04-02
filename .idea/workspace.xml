@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40e634f1-2c73-4da7-b5dd-affc7bff9a2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogSignModal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/autonumber/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/autonumber/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/autonumber/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/autonumber/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/autonumber/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/category/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/category/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/category/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/category/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/category/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap-social.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/costum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/ekko-lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/ekko-lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/metisMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/metisMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/sb-admin-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/css/util.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/font/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/montserrat/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/fonts/raleway/Raleway-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/images/adams.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/ekko-lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/ekko-lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/flot-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/janobe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/morris-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/raphael-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/raphael.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/js/sb-admin-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/addorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/addtocart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/billing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/customerdetail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/orderdetails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/orderedproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/orders/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/Bread and Butter Pudding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/Custard and Ice Cream.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/air force.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/air.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/bag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/bed.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/iphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/jeans.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/korean.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/note.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/notebook.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/shirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/shirt2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/sportwear.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/uploaded_photos/terno.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/products/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/report/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/report/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/report/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/listlocation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/listproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/setDeliveryFee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/setDiscount.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/setbanner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/setpromo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/settings/setting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/theme/templates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/user/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/user/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/user/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/user/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/user/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/user/photos/10329236_874204835938922_6636897990257224477_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/user/photos/meme 6 programming is life.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/select2/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/vendor/select2/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/addtocart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/captcha_code_file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/cartlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/cartlist_popup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/monofont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/popup_Item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/terms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-social.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/costum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ekko-lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/ekko-lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/modern.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/prettyPhoto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/price-range.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sb-admin-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/.subl3c9.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_image/90HyAjPUjFs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_image/images (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_image/img-thing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_image/meme 1 c# copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_image/meme 2 backend.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customer_image/shirt2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/customerbilling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/listorderedproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/orderdetails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/terms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/trackorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/wishlist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/bg_border.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/gallery1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/gallery2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/gallery3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/gallery4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/girl1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/girl2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/girl3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/iframe1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/iframe2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/iframe3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/iframe4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/partner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/partner2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/partner3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/partner4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/pricing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/product1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/product2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/product3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/product4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/product5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/product6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/recommend1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/recommend2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/recommend3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/sale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/searchicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home/shipping.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop/advertisement.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/shop/advertisements.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/adminlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/publiclogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/accounts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/autonumbers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/customers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/initialize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/orders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/promos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/sidebarFunction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/stockin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/summary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ekko-lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/ekko-lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/gmaps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/janobe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/locales/bootstrap-datetimepicker.uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/price-range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orderdetail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwordrecover.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/popup_Item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/souktchad.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/terms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/templates.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/viewProduct.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZLpIipZH2XWuze0s8hmMFDH3cx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/home" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Souktchad\images\home" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40e634f1-2c73-4da7-b5dd-affc7bff9a2b" name="Default Changelist" comment="" />
+      <created>1584628150253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584628150253</updated>
+      <workItem from="1584628151641" duration="8141000" />
+      <workItem from="1584728818081" duration="7865000" />
+      <workItem from="1584886649068" duration="17247000" />
+      <workItem from="1585746466881" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
